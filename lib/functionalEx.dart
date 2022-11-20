@@ -1,5 +1,3 @@
-import 'package:flutter/cupertino.dart';
-
 void main() {
   //외부에서 어떤값을 Json형태로 받았다고 가정하에
   final List<Map<String, String>> people = [
